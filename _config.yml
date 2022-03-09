@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Adrien La Posta"
 description              : &description "PhD student in Cosmology at IJClab (CNRS, France)"
 url                      : https://adrien-laposta.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/publications" # the subpath of your site, e.g. "/blog"
 repository               : "adrien-laposta/adrien-laposta.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
