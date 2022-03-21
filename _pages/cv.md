@@ -11,18 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Master in Subatomic Physics and Cosmology, Université Grenoble Alpes (UGA), 2018-2020
+* Preparation of a Ph.D in Cosmology, IJCLab (Orsay), Université Paris-Saclay, 2020-2023
 
 Publications
 ======
