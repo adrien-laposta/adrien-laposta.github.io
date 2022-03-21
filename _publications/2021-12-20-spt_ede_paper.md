@@ -6,5 +6,5 @@ excerpt: '[arXiv:2112.10754](https://arxiv.org/abs/2112.10754), submitted to Phy
 date: 2021-12-20
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2112.10754'
-citation: 'A. La Posta, T. Louis, X. Garrido, J. C. Hill, arXiv:2112.10754 (2021)'
+citation: 'A. La Posta, T. Louis, X. Garrido and J. C. Hill, arXiv:2112.10754 (2021)'
 ---
