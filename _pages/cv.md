@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Master in Subatomic Physics and Cosmology, Université Grenoble Alpes (UGA), 2018-2020
-* Preparation of a Ph.D in Cosmology, IJCLab (Orsay), Université Paris-Saclay, 2020-2023
+* Preparation of a Ph.D in Cosmology, IJCLab (Orsay), Université Paris-Saclay, 2020-2023; Advisor : Thibaut Louis
 
 Publications
 ======
