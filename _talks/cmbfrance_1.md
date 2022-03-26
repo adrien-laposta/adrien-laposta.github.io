@@ -1,5 +1,5 @@
 ---
-title: "Cosmomogy with the T-E correlation coefficient"
+title: "Cosmology with the T-E correlation coefficient"
 collection: talks
 type: "Talk"
 permalink: "https://adrien-laposta.github.io/files/2106_cmbfrance.pdf"
