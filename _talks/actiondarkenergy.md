@@ -6,5 +6,5 @@ permalink: "talks/2201_ade_webinar"
 venue: "Action Dark Energy seminar"
 date: 2022-01-20
 location: "Remote"
-extlink: "https://github.com/adrien-laposta/adrien-laposta.github.io/blob/master/files/2201_ade_webinar.pdf"
+extlink: "https://adrien-laposta.github.io/files/2111_cmbfrance.pdf"
 ---
