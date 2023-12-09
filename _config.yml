@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Adrien La Posta"
 title_separator          : "-"
 name                     : &name "Adrien La Posta"
-description              : &description "PhD student in Cosmology at IJClab (CNRS, France)"
+description              : &description "Postdoctoral Research Assistant, Oxford University"
 url                      : https://adrien-laposta.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "adrien-laposta/adrien-laposta.github.io"
@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Adrien La Posta"
   avatar           : "profile.jpg"
-  bio              : "PhD student in Cosmology at IJClab (CNRS, France)"
-  location         : "Orsay, France (91400)"
+  bio              : "Postdoctoral Research Assistant, Oxford University"
+  location         : "Oxford, United Kingdom"
   employer         :
   #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   #googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            : "laposta@ijclab.in2p3.fr"
+  email            : "adrien.la.posta@physics.ox.ac.uk"
   #researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
